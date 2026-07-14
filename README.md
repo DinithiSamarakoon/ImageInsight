@@ -261,26 +261,6 @@ numpy>=1.24.0            # Numerical computing
 
 See `requirements.txt` for full list.
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
-
----
-
 ## 📚 Resources
 
 - [BLIP Model - Salesforce](https://huggingface.co/Salesforce/blip-image-captioning-base)
@@ -291,28 +271,4 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ---
 
-## 🎯 Roadmap
 
-- [ ] Support GPU acceleration (CUDA)
-- [ ] Batch processing for multiple images
-- [ ] Export to JSON/CSV
-- [ ] Multi-language UI
-- [ ] Docker containerization
-- [ ] REST API
-- [ ] Database integration
-- [ ] Advanced image filters
-
----
-
-## 📞 Support
-
-Have questions? 
-- 📖 Check [README.md](README.md)
-- 🐛 Open an [Issue](https://github.com/yourusername/ImageInsight/issues)
-- 💬 Start a [Discussion](https://github.com/yourusername/ImageInsight/discussions)
-
----
-
-**Made with ❤️ by [Your Name]**
-
-⭐ If this helps you, please give it a star on GitHub!
